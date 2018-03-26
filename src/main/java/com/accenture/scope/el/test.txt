@@ -1,0 +1,1 @@
+本例中使用commons-io将file转换成字符串
